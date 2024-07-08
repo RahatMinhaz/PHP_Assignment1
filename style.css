@@ -17,7 +17,7 @@ body{
     height: 600px;
     width: 340px;
     overflow: hidden;
-    background: #62f1f1;
+    background: #c2f7f7;
     border-radius: 20px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     display: flex;
@@ -60,14 +60,14 @@ body{
   .card-content h5{
     
     font-size: 18px;
-    color: #07a148;
+    color: #134b2a;
     text-align: center;
   }
   
   .card-content p{
     font-family: "Bona Nova SC", serif;
     font-size: 16px;
-    color: #07a148;
+    color: #1a5834;
     text-align: justify;
     padding: 0 20px 5px 20px;
   }
